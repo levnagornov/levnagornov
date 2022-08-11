@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lev</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🌱 I’m currently learning **FreeCodeCamp front-end** and **Microsoft Azure** courses
+- 📚 I’m currently completing **FreeCodeCamp front-end** course and learn more CI/CD and DevOps
+
+- ✅ My latest achievement is the Microsoft Azure Fundamentals (AZ-900) [certification](https://www.credly.com/badges/cca3d30d-af7a-4438-93a4-1fb18c688271/public_url).
 
 - 💬 Ask me about **JS, C#, Python** or just anything you'd like
 
@@ -59,7 +61,7 @@
 
 ### MeFit
 Full-stack web app which allows you to pick fitness program with workouts and exercises, finish it, and also track your progress.
-<br>Built with Angular, ASP.Net, Keycloak.
+<br>Built with Angular, ASP.Net, Keycloak, Postgres and deployed on Heroku.
 <br>[Check front-end code](https://gitlab.com/AyoubAuolad/mefitcase_assignment_front_end)
 <br>[Check back-end code](https://gitlab.com/AyoubAuolad/mefitcase_assignment)
 <br>[Check middleware code](https://gitlab.com/lnagornov/mefit-auth)
