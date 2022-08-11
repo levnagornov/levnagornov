@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lev</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">A passionate software engineer</h3>
 
-- 📚 I’m currently completing **FreeCodeCamp front-end** course and learn more CI/CD and DevOps
+- 📚 I’m currently completing **FreeCodeCamp front-end** course and learning more about **CI/CD and DevOps**
 
 - ✅ My latest achievement is the Microsoft Azure Fundamentals (AZ-900) [certification](https://www.credly.com/badges/cca3d30d-af7a-4438-93a4-1fb18c688271/public_url).
 
