@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lev</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-- 📚 I’m currently completing **FreeCodeCamp front-end** course and learning more about **CI/CD and DevOps**
+- 📚 I’m currently learning **Java**
 
 - ✅ My latest achievement is the Microsoft Azure Fundamentals (AZ-900) [certification](https://www.credly.com/badges/cca3d30d-af7a-4438-93a4-1fb18c688271/public_url).
 
@@ -61,14 +61,10 @@
 
 ### MeFit
 Full-stack web app which allows you to pick fitness program with workouts and exercises, finish it, and also track your progress.
-<br>Built with Angular, ASP.Net, Keycloak, Postgres and deployed on Heroku.
+<br>Built with Angular, ASP.Net, Keycloak, Postgres and it used to be deployed on Heroku.
 <br>[Check front-end code](https://gitlab.com/AyoubAuolad/mefitcase_assignment_front_end)
 <br>[Check back-end code](https://gitlab.com/AyoubAuolad/mefitcase_assignment)
 <br>[Check middleware code](https://gitlab.com/lnagornov/mefit-auth)
-<br>
-<br>[View front-end app](https://mefit-front.herokuapp.com)
-<br>[View back-end app](https://mefit-back.herokuapp.com)
-<br>[View middleware app](https://mefit-auth.herokuapp.com)
 <br>
 
 ### Movie Characters API
@@ -89,19 +85,16 @@ This console application in C# imitates console RPG.
 ### Pokémon Trainer
 This Angular app allows to collect Pokémon received from the PokeAPI.
 <br>[Check code](https://gitlab.com/lnagornov/pokemon-trainer)
-<br>[View app](https://fathomless-beyond-75411.herokuapp.com)
 <br>
 
 ### Lost in translation
 This React app translates sentences into American sign language.
 <br>[Check code](https://gitlab.com/lnagornov/lost-in-translation)
-<br>[View app](https://radiant-beyond-70216.herokuapp.com)
 <br>
 
 ### Komputer Store
 It's dynamic webpage created using “vanilla” JavaScript
 <br>[Check code](https://gitlab.com/lnagornov/komputer-store)
-<br>[View app](https://lnagornov-komputer-store.herokuapp.com)
 <br>
 
 <h3 align="left">Connect with me:</h3>
