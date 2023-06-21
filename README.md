@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Lev</h1>
 <h3 align="center">A passionate software engineer</h3>
 
+<h3 align="left">Connect with me:</h3>
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=whit)](https://t.me/lnagornov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lnagornov)
+[![Email](https://img.shields.io/badge/email-levnagornov@yahoo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:levnagornov@yahoo.com)
+  
 - 📚 I’m currently learning **Java**
 
 - ✅ My latest achievement is the Microsoft Azure Fundamentals (AZ-900) [certification](https://www.credly.com/badges/cca3d30d-af7a-4438-93a4-1fb18c688271/public_url).
@@ -97,8 +103,3 @@ It's dynamic webpage created using “vanilla” JavaScript
 <br>[Check code](https://gitlab.com/lnagornov/komputer-store)
 <br>
 
-<h3 align="left">Connect with me:</h3>
-
-* [LinkedIn](https://www.linkedin.com/in/lnagornov/)
-* [Telegram](https://t.me/lnagornov)
-* [Email](mailto:lnagornov@yahoo.com)
