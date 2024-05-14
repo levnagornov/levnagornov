@@ -158,11 +158,11 @@
   </div>
   
   <div>
-    <h4>
+    <h3>
       Lost in translation 
       <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"/>
       <img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/>
-    </h4>
+    </h3>
     <p>This React app translates sentences into American sign language.</p>
     <a href="https://gitlab.com/lnagornov/lost-in-translation">Check code</a>
     <hr>
