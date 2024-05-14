@@ -85,7 +85,7 @@
       <img alt="Java" src="https://img.shields.io/badge/Java-orange"/>
       <img alt="CLI APP" src="https://shields.io/badge/-CLI%20app-grey"/>
     </h3>
-    <p>This СLI app works with the Caesar cipher, so it can encode and decode files.</p>
+    <p>This CLI app can encrypt and decrypt files using the Caesar cipher.</p>
     <a href="https://github.com/levnagornov/crypto-cli">Check code</a>
     <hr>
   </div>
