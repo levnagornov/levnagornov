@@ -21,7 +21,7 @@
 <p>📚 Now I’m learning Java at <a href="https://landing.codegym.cc/en/university/">JavaRush a.k.a CodeGym University</a></p>
 <p>✅ My latest achievement is the <a href="https://www.credly.com/badges/cca3d30d-af7a-4438-93a4-1fb18c688271/public_url">Microsoft Azure Fundamentals (AZ-900) certification</a></p>
 <p>💬 Ask me about <b>Java, Python, JS, C#</b> or just anything you'd like</p>
-<p>👾 I aslo have some projects on <a href="https://gitlab.com/lnagornov"><GitLab/a></p>
+<p>👾 I aslo have some projects on <a href="https://gitlab.com/lnagornov">GitLab</a></p>
 
 <h3 align="left">Languages and Tools I use:</h3>
 <div align="center">
