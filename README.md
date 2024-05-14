@@ -73,7 +73,7 @@
 
 <h3>Check out some of my projects:</h3>  
 <details>
-  <summary><i>Projects from: JavaRush University</i></summary>
+  <summary><i>Projects from: JavaRush University (2024)</i></summary>
 
   <div>
     <h3>
@@ -89,7 +89,7 @@
 </details>
 
 <details>
-  <summary><i>Projects from: Full-stack .Net trainiship at Experis</i></summary>
+  <summary><i>Projects from: Full-stack .Net trainiship at Experis (2022)</i></summary>
 
   <div>
     <h3>
@@ -179,4 +179,48 @@
   </div>
 </details>
 
+<details>
+  <summary><i>Projects from: Flask course (2021)</i></summary>
+  
+  <div>
+    <h3>
+      Travel website
+      <img alt="Python" src="https://shields.io/badge/-Python-4584b6"/>
+      <img alt="Flask" src="https://shields.io/badge/-Flask-black"/>
+      <img alt="Bootstrap 4.0" src="https://shields.io/badge/-Bootstrap%204.0-6610f2"/>
+      <img alt="API" src="https://shields.io/badge/-API-snow"/>
+    </h3>
+    <p>This is a static website about traveling, it offers some nice tours to go from several towns and even shows current weather in the town!</p>
+    <p><Build with Python, Flask, Bootstrap 4 and weather API from OpenWeatherMap/p>
+    <a href="https://github.com/levnagornov/travel-website">Check code</a>
+    <hr>
+  </div>
 
+  <div>
+    <h3>
+      English tutors website
+    <img alt="Python" src="https://shields.io/badge/-Python-4584b6"/>
+    <img alt="Flask" src="https://shields.io/badge/-Flask-black"/>
+    <img alt="Bootstrap 4.0" src="https://shields.io/badge/-Bootstrap%204.0-6610f2"/>
+    <img alt="SQLite" src="https://shields.io/badge/-SQLite-044a64"/>
+    </h3>
+    <p>This is a static website about booking an english language lesson with some tutors. Here I have worked with WTForms.</p>
+    <a href="https://github.com/levnagornov/english-tutors-website-with-db">Check code of a version with DB</a>
+    <br>
+    <a href="https://github.com/levnagornov/english-tutors-website">Check code of a version without DB</a>
+    <hr>
+  </div>
+
+  <div>
+    <h3>
+      Food delivery website
+      <img alt="Python" src="https://shields.io/badge/-Python-4584b6"/>
+      <img alt="Flask" src="https://shields.io/badge/-Flask-black"/>
+      <img alt="Bootstrap 4.0" src="https://shields.io/badge/-Bootstrap%204.0-6610f2"/>
+      <img alt="SQLite" src="https://shields.io/badge/-SQLite-044a64"/>
+    </h3>
+    <p>This a static website about food delivery.</p>
+    <a href="https://github.com/levnagornov/food-delivery-website">Check code</a>
+    <hr>
+  </div>
+</details>
