@@ -25,8 +25,12 @@
 
 <h3 align="left">Languages and Tools I use:</h3>
 <div align="center">
+    <!-- Java -->
+    <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    </a>
     <!-- Csharp -->
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
     </a>
     <!-- Python -->
