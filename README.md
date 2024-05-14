@@ -73,7 +73,7 @@
 
 <h3>Check out some of my projects:</h3>  
 <details>
-  <summary><i>Project from: JavaRush University</i></summary>
+  <summary><i>Projects from: JavaRush University</i></summary>
 
   <div>
     <h3>
@@ -89,7 +89,7 @@
 </details>
 
 <details>
-  <summary><i>Project from: Full-stack .Net trainiship at Experis</i></summary>
+  <summary><i>Projects from: Full-stack .Net trainiship at Experis</i></summary>
 
   <div>
     <h3>
