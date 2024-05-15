@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate engineer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's connect 😉</h3>
 <div align="center">
   <a href="https://t.me/levnagornov">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=whit"/>
