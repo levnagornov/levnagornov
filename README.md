@@ -81,6 +81,17 @@
 
   <div>
     <h3>
+      Wild life simulator
+      <img alt="Java" src="https://img.shields.io/badge/Java-orange"/>
+      <img alt="CLI APP" src="https://shields.io/badge/-CLI%20app-grey"/>
+    </h3>
+    <p>This CLI app is an animal modelling program that allows you to see the dynamics of the ecosystem.</p>
+    <a href="https://github.com/levnagornov/wild-life-simulator">Check code</a>
+    <hr>
+  </div>
+
+  <div>
+    <h3>
       Crypto-CLI
       <img alt="Java" src="https://img.shields.io/badge/Java-orange"/>
       <img alt="CLI APP" src="https://shields.io/badge/-CLI%20app-grey"/>
